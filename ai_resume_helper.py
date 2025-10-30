@@ -12,7 +12,7 @@ print("简历加载成功！内容：\n", resume_text[:200])  # 只打印前200�
 
 # 2. 调用 Kimi 修改简历
 client = OpenAI(
-    api_key="sk-xxxxx",  # ← 你的 key
+    api_key="sk-RacZ26mhxpikuKwyX4L9Lo3AnIN6dr3SGP8VLT99uewlkP6w",  # ← 你的 key
     base_url="https://api.moonshot.cn/v1"
 )
 

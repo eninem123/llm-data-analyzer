@@ -11,7 +11,7 @@ data_text = df.to_markdown()
 
 # 3. 调用 Kimi 大模型
 client = OpenAI(
-    api_key="sk-222222",  # ← 把你的 key 粘贴这里！
+    api_key="sk-RacZ26mhxpikuKwyX4L9Lo3AnIN6dr3SGP8VLT99uewlkP6w",  # ← 把你的 key 粘贴这里！
     base_url="https://api.moonshot.cn/v1"
 )
 

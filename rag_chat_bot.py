@@ -14,13 +14,13 @@ data_text += "| " + " --- |" * len(df.columns) + "\n"
 for _, row in df.iterrows():
     data_text += "| " + " | ".join(str(x) for x in row) + " |\n"
 
-knowledge = f"简历：\n{resume_text}\n\n订单数据：\n{data_text}\n\n额外知识：我35岁，失业2年，转AI。"
+knowledge = f"简历：\n{resume_text}\n\n订单数据：\n{data_text}\n\n额外知识：我35岁，转AI。"
 
 print("✅ 知识库加载成功！（简历 + 数据）")
 
 # 2. 初始化 Kimi
 client = OpenAI(
-    api_key="sk-xxxxx",  # ← 你的 key
+    api_key="sk-RacZ26mhxpikuKwyX4L9Lo3AnIN6dr3SGP8VLT99uewlkP6w",  # ← 你的 key
     base_url="https://api.moonshot.cn/v1"
 )
 

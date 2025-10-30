@@ -23,7 +23,7 @@ def init_rag():
         collection.add(documents=lines, ids=[f"id{i}" for i in range(len(lines))])
 
     # Kimi
-    kimi = OpenAI(api_key="sk-w7xxxxxxNC2s", base_url="https://api.moonshot.cn/v1")
+    kimi = OpenAI(api_key="sk-RacZ26mhxpikuKwyX4L9Lo3AnIN6dr3SGP8VLT99uewlkP6w", base_url="https://api.moonshot.cn/v1")
     return collection, kimi
 
 

@@ -28,7 +28,7 @@ for _, row in df.iterrows():
 
 # 3. 调用 Kimi 分析
 client = OpenAI(
-    api_key="sk-xxxs",  # ← 你的 key
+    api_key="sk-RacZ26mhxpikuKwyX4L9Lo3AnIN6dr3SGP8VLT99uewlkP6w",  # ← 你的 key
     base_url="https://api.moonshot.cn/v1"
 )
 print(data_text)

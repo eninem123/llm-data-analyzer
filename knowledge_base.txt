@@ -1,10 +1,10 @@
-# 数仓经验
-我有5年离线数仓经验，熟练使用 Hive SQL 写 ETL，处理过 TB 级日志。
+# 数据开发
+我有11年数据开发经验，熟练使用 Hive SQL 写 ETL，处理过 TB 级日志。
 我优化过慢查询，从 30 分钟降到 3 分钟。
 我用过 Hadoop、Spark，懂血缘分析。
 
 # AI 学习
-我自学了 Kimi API、LangChain、RAG 原理。
+我使用 Kimi API、LangChain、RAG 原理。
 我用 Python 写过数据分析 + 自动出图工具。
 我能用大模型改简历、做问答机器人。
 

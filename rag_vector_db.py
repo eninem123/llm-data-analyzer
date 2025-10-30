@@ -28,7 +28,7 @@ print(f"✅ 知识库加载完成！共 {len(documents)} 条")
 
 # 3. 初始化 Kimi
 kimi_client = OpenAI(
-    api_key="sk-xxxxs",  # ← 你的 key
+    api_key="sk-RacZ26mhxpikuKwyX4L9Lo3AnIN6dr3SGP8VLT99uewlkP6w",  # ← 你的 key
     base_url="https://api.moonshot.cn/v1"
 )
 
