@@ -8,7 +8,7 @@
 
 ## 项目简介
 
-这是一个基于 **RAG（Retrieval-Augmented Generation）** 的 **AI 数据分析助手**，通过 **向量检索** 和 **大语言模型（Kimi API）**，实现精准的简历分析、数据问答和项目展示。项目部署为 **Web 应用**，支持手机扫码访问，完美适配 **AI 数据工程师** 岗位需求。
+这是一个基于 **RAG（Retrieval-Augmented Generation）** 的 **AI 数据分析助手**，通过 **向量检索** 和 **大语言模型（Kimi API）**，实现精准的简历分析、数据问答和项目展示。项目部署为 **Web 应用**，支持手机访问。
 
 - **技术栈**：Python, Streamlit, Kimi API, Chroma（向量数据库）, Sentence-Transformers
 - **功能**：
