@@ -12,7 +12,7 @@
 - 实现 RAG 问答，精准回答简历/数据问题  
 - 部署为 Web 应用，手机扫码即用  
 - **在线体验**:  https://bilgy-allogenically-salina.ngrok-free.dev
-- **源码**: https://github.com/eninem123/llm-data-analyzer
+- **源码**:    https://github.com/eninem123/llm-data-analyzer
 
 ## 个人优势
 - 11年数据开发经验，精通数据仓库建设和数据分析

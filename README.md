@@ -17,3 +17,9 @@
 ```bash
 pip install pandas openai matplotlib
 python rag_chat_bot.py
+
+```
+
+![app](C:\Users\44500\PycharmProjects\PythonProject\app.jpg)
+
+![](C:\Users\44500\PycharmProjects\PythonProject\chatai.png)
