@@ -97,7 +97,7 @@ streamlit run web_rag_app.py
 
 - **GitHub**：https://github.com/eninem123
 - **邮箱**：2442972114@qq.com
-- **在线 Demo,经费不足没开**：https://xxx-ngrok-link
+- **在线 Demo**：https://https://bilgy-allogenically-salina.ngrok-free.dev/
 
 
 ---
